@@ -1,6 +1,6 @@
 ![Wallpaper](https://github.com/user-attachments/assets/2452edc2-0695-4d31-aa8f-b10d14eda657)
 
-Lava Lamp Animation 🎯
+# Lava Lamp Animation 🎯
 
 ### Project Description
 A fun, interactive lava lamp animation rendered entirely in the browser using CSS and SVGs. The animation mimics the flowing movement of lava, providing a visually captivating effect.
